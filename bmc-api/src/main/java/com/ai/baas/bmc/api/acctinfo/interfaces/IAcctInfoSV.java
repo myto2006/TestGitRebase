@@ -14,9 +14,9 @@ import com.ai.opt.base.exception.SystemException;
 import com.ai.opt.base.vo.PageInfo;
 
 /**
- * 账户查询服务
+ * 璐︽埛鏌ヨ鏈嶅姟
  * 
- * Date: 2016年7月4日 <br>
+ * Date: 2016骞�鏈�鏃�<br>
  * Copyright (c) 2016 asiainfo.com <br>
  * 
  * @author luoxuan
@@ -25,8 +25,9 @@ import com.ai.opt.base.vo.PageInfo;
 @Consumes({ MediaType.APPLICATION_JSON })
 @Produces({ MediaType.APPLICATION_JSON, MediaType.TEXT_XML })
 public interface IAcctInfoSV {
+	// commit 
     /**
-     * 分页查询账户信息
+     * 鍒嗛〉鏌ヨ璐︽埛淇℃伅
      * 
      * @param acctQueryRequest
      * @return
