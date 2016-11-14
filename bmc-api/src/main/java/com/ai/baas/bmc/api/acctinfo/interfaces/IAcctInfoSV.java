@@ -43,7 +43,7 @@ public interface IAcctInfoSV {
     @Path("/getAcctInfo")
     ResponseMessage getAcctInfo(AcctQueryRequest acctQueryRequest) throws BusinessException,
             SystemException;
-
+    // bug2
     @interface getAcctInfo {
     }
 
