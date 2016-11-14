@@ -27,6 +27,7 @@ import com.ai.opt.base.vo.PageInfo;
 public interface IAcctInfoSV {
 	// commit bug1
 	// commit 
+	// commit 20161201 A
     /**
      * 鍒嗛〉鏌ヨ璐︽埛淇℃伅
      * 
