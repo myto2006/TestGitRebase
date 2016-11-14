@@ -25,6 +25,7 @@ import com.ai.opt.base.vo.PageInfo;
 @Consumes({ MediaType.APPLICATION_JSON })
 @Produces({ MediaType.APPLICATION_JSON, MediaType.TEXT_XML })
 public interface IAcctInfoSV {
+	// commit bug1
 	// commit 
     /**
      * 鍒嗛〉鏌ヨ璐︽埛淇℃伅
