@@ -26,6 +26,7 @@ import com.ai.opt.base.vo.PageInfo;
 @Produces({ MediaType.APPLICATION_JSON, MediaType.TEXT_XML })
 public interface IAcctInfoSV {
 	// commit 
+	// commit 20161201 A
     /**
      * 鍒嗛〉鏌ヨ璐︽埛淇℃伅
      * 
